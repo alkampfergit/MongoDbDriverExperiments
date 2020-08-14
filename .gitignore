@@ -6,6 +6,7 @@ Publishing/lib
 
 # User-specific files
 *.suo
+*.dll
 *.user
 *.sln.docstates
 *.userprefs
